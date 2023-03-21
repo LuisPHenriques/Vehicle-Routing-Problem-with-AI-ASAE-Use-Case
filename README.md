@@ -6,3 +6,5 @@ Simulated Annealing, Tabu Search and Genetic Algorithm were used to find the opt
 The main problem was to optimize the total travel time, that includes travel time, inspection times and waiting times (each establishment has a schedule), and that was the focus of the project for the Aitificial Intelligence course. However, the most interesting problem is the seconds, where we want to minimize the number of vehicles used, while we optimize routes and distribution of establishments per route, considering an 8 working hour limit time per brigade in each route.
 
 The report only focuses in the results of the first problem has the other problems are adjustments of the first one.
+
+![Header](./map.png)
