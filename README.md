@@ -1,5 +1,5 @@
 # Optimal-Inspection-Routes-ASAE-Use-Case
-Deployed several meta-heuristics with informed search methods to solve a Vehicle Routing Problem in a use case of the specialized authority responsible for food safety and economic surveillance in Portugal.
+Deployed several meta-heuristics with informed search methods to solve a Vehicle Routing Problem in an use case of the specialized authority responsible for food safety and economic surveillance in Portugal, ASAE (Food and Economic Security Authority in english).
 
 Simulated Annealing, Tabu Search and Genetic Algorithm were used to find the optimal distribution of establishments per route, while greedy-search and the A* algorithm were used in the objective functions to optimally (A* only) order the establishments in each route.
 
